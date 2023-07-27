@@ -1,6 +1,6 @@
 ## Oiii eu sou o Giovane Ferreira, Programador Front-end!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gferreira1&show_icons=true&theme=radical)
 
 
 <div style="display: inline_block"><br>
