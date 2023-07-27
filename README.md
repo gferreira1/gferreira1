@@ -1,4 +1,4 @@
-## Oiii eu sou o Giovane Ferreira, cProgramador Front-end!
+## Oiii eu sou o Giovane Ferreira, Programador Front-end!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
